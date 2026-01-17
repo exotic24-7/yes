@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#7CE041"/>
+  <g transform="translate(64,64)">
+    <circle r="44" fill="#FFEB3B" stroke="#000" stroke-width="0" />
+    <!-- Eyes (X) -->
+    <g stroke="#000" stroke-width="6" stroke-linecap="round">
+      <line x1="-22" y1="-8" x2="-10" y2="4"/>
+      <line x1="-22" y1="4" x2="-10" y2="-8"/>
+      <line x1="10" y1="-8" x2="22" y2="4"/>
+      <line x1="10" y1="4" x2="22" y2="-8"/>
+    </g>
+    <!-- Tongue -->
+    <path d="M -6 20 q 6 14 18 0 q -8 12 -18 0" fill="#FF67A6" stroke="#C03B6A" stroke-width="1"/>
+    <!-- Top hat -->
+    <rect x="-34" y="-64" width="68" height="18" fill="#000"/>
+    <rect x="-22" y="-86" width="44" height="34" fill="#000"/>
+    <!-- Pin/white part -->
+    <rect x="10" y="-74" width="6" height="12" fill="#fff" transform="rotate(-12 13 -68)"/>
+  </g>
+</svg>

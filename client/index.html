@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Zephyrax</title>
+    <link rel="icon" type="image/png" href="gfx/favicon.png?v=3461815e" sizes="32x32">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="user-scalable=no, width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+
+    <meta name="application-name" content="Zephyrax.io">
+    <meta name="description" content="Welcome to Zephyrax, an online single-player game! Fight your way through waves of insect hordes and gather powerful petals in this flower-game parody!">
+    <meta name="msapplication-TileColor" content="#181818">
+    <meta name="theme-color" content="#181818">
+
+    <link href="style.css?v=3461815e" rel="stylesheet" type="text/css" type='text/css'/>
+    <script src="msgpackr.js?v=3461815e"></script>
+  </head>
+  <body>
+    <div class="loader">Loading...</div>
+
+    <!-- sign-in removed for local single-player use -->
+
+    <div class="menu">
+      <div class="grid">
+        <div class="nick-info" stroke="This pretty flower is called..."></div>
+        <input class="textbox nickname" type="text" tabindex="-1" maxlength="16" autocomplete="off" spellcheck="false">
+        <div class="btn play-btn">
+          <span stroke="Play" class="play-text"></span>
+        </div>
+      </div>
+      <div class="links">
+        <div id="settingsButton">
+          <img src="gfx/gear.png?v=3461815e" draggable="false" width="35" height="35">
+        </div>
+        <div id="discordButton">
+          <a href="https://discord.gg/E2nPBByE" target="_blank" title="Join our Community!">
+            <img src="gfx/discord.png?v=3461815e" draggable="false" width="35" height="35">
+          </a>
+        </div>
+        <div id="changelogButton">
+          <img src="gfx/scroll.png?v=3461815e" draggable="false" width="24" height="24">
+        </div>
+      </div>
+      <div class="globalInventory">
+        <input id="petalsearch" class="textbox dummy-input" type="text" tabindex="-2" maxlength="20" autocomplete="off" spellcheck="false">
+      </div>
+
+    </div>
+
+    <!-- captcha removed for local single-player use -->
+
+    <div class="chatContainer hidden">
+      <input class="chat" type="text" autocomplete="off" spellcheck="false" maxlength="300">
+      <div class="chat-div">
+      </div>
+    </div>
+    
+    
+    <canvas id="canvas" width="1280" height="720" style="z-index: -1"></canvas>
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.1.3/socket.io.js"></script>
+    <script src="constants.js?v=3461815e"></script>
+    <script src="systems/asc.js?v=3461815e"></script>
+    <script src="systems/characterSelector.js?v=3461815e"></script>
+    <script src="systems/input.js?v=3461815e"></script>
+    <script src="systems/deadMenu.js?v=3461815e"></script>
+    <script src="systems/streakMenu.js?v=3461815e"></script>
+    <script src="petalContainer.js?v=3461815e"></script>
+    <script src="systems/manaBar.js?v=3461815e"></script>
+    <script src="systems/levelBar.js?v=3461815e"></script>
+    <script src="systems/menu.js?v=3461815e"></script>
+    <script src="util.js?v=3461815e"></script>
+    <script src="systems/inventory.js?v=3461815e"></script>
+    <script src="systems/squad.js?v=3461815e"></script>
+    <script src="enemy.js?v=3461815e"></script>
+    <script src="systems/enemyBox.js?v=3461815e"></script>
+    <script src="petal.js?v=3461815e"></script>
+    <script src="flower.js?v=3461815e"></script>
+    <script src="systems/runGame.js?v=3461815e"></script>
+    <script src="systems/processGameMessage.js?v=3461815e"></script>
+    <script src="systems/processMenuMessage.js?v=3461815e"></script>
+    <script src="systems/collectedMenu.js?v=3461815e"></script>
+    <script src="systems/room.js?v=3461815e"></script>
+    <script src="game.js?v=3461815e"></script>
+    <script src="renderGame.js?v=3461815e"></script>
+    <script src="systems/globalInventory.js?v=3461815e"></script>
+    <script src="systems/craftingMenu.js?v=3461815e"></script>
+    <script src="systems/mobGallery.js?v=3461815e"></script>
+    <script src="systems/changelog.js?v=3461815e"></script>
+    <script src="render.js?v=3461815e"></script>
+    <script src="sharedWithEditor.js?v=3461815e"></script>
+    <script src="stats.js?v=3461815e"></script>
+    <script src="systems/importBiomeData.js?v=3461815e"></script>
+    <script src="systems/importEditorBiomes.js?v=3461815e"></script>
+    <script src="systems/biomeManager.js?v=3461815e"></script>
+    <script src="systems/statsBox.js?v=3461815e"></script>
+    <script src="systems/settingsMenu.js?v=3461815e"></script>
+    <script src="client.js?v=3461815e"></script>
+    <script src="miniClient.js?v=3461815e"></script>
+</html>
+
+</html>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="reload.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.77516581"
+     inkscape:cx="296.06569"
+     inkscape:cy="356.69788"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title1">ionicons-v5-b</title>
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:64;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 239.42709,61.785432 C 132.5308,61.803964 45.246401,149.09954 45.246401,255.99999 c 0,106.9118 87.302759,194.21456 194.214559,194.21456 h 0.002 c 82.21065,-0.005 155.71717,-51.96862 183.1464,-129.46847 a 27.744937,27.744937 0 0 0 -16.89861,-35.41104 27.744937,27.744937 0 0 0 -35.41103,16.89861 c -19.65183,55.5251 -71.93844,92.48634 -130.83849,92.49103 -76.8984,0 -138.72468,-61.82628 -138.72468,-138.72469 0,-76.8984 61.82628,-138.72468 138.72468,-138.72468 h 0.0169 0.0169 c 37.7924,-0.0471 73.90984,15.37551 100.03182,42.6724 l 17.6183,20.4988 a 27.744937,27.744937 0 0 0 39.12639,2.95502 27.744937,27.744937 0 0 0 2.95502,-39.12639 l -18.77153,-21.8383 -0.48601,-0.50972 C 343.36294,83.479383 292.54685,61.728609 239.46096,61.785432 Z"
+     id="path1" />
+  <path
+     d="M 426.64596,119.45465 V 197.966 a 11.359936,11.359936 0 0 1 -11.35993,11.35994 h -78.51134 c -10.12455,0 -15.19393,-12.23323 -8.03715,-19.39 l 78.51844,-78.51845 c 7.15676,-7.17096 19.38998,-2.08738 19.38998,8.03716 z"
+     id="path2"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:64;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:64;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 239.42709,61.785432 C 132.5308,61.803964 45.246401,149.09954 45.246401,255.99999 c 0,106.9118 87.302759,194.21456 194.214559,194.21456 h 0.002 c 82.21065,-0.005 155.71717,-51.96862 183.1464,-129.46847 a 27.744937,27.744937 0 0 0 -16.89861,-35.41104 27.744937,27.744937 0 0 0 -35.41103,16.89861 c -19.65183,55.5251 -71.93844,92.48634 -130.83849,92.49103 -76.8984,0 -138.72468,-61.82628 -138.72468,-138.72469 0,-76.8984 61.82628,-138.72468 138.72468,-138.72468 h 0.0169 0.0169 c 37.7924,-0.0471 73.90984,15.37551 100.03182,42.6724 l 17.6183,20.4988 a 27.744937,27.744937 0 0 0 39.12639,2.95502 27.744937,27.744937 0 0 0 2.95502,-39.12639 l -18.77153,-21.8383 -0.48601,-0.50972 C 343.36294,83.479383 292.54685,61.728609 239.46096,61.785432 Z"
+     id="path5" />
+</svg>
